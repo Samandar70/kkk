@@ -1,0 +1,23 @@
+.cantener{
+    background-color: red;
+    height: 400px;
+    gap: 20px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border-radius: 2px;
+}
+.box{
+    background-color: blueviolet;
+    height: 250px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+.box1{
+    background-color: blueviolet;
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+    
+}
